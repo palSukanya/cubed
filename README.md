@@ -2,7 +2,7 @@
 
 > A polished, single-page Tic Tac Toe experience with 3D flip animations, an AI opponent, and a responsive dark-mode UI.
 
-🔗 **[Live Demo → palsukanya.github.io/tic-tac-toe](https://palsukanya.github.io/tic-tac-toe/)**
+🔗 **[Live Demo → palsukanya.github.io/cubed](https://palsukanya.github.io/cubed/)**
 
 ![Version](https://img.shields.io/badge/version-1.0-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
